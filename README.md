@@ -1,6 +1,6 @@
 # Hi there, I'm Angshuk Maity 👋
 
-Welcome to my GitHub profile! I'm a passionate AI enthusiasy who loves to explore new technologies and build projects that solve real-world problems. Here you'll find a collection of my open-source contributions, personal projects, and anything else I work on that might be useful or interesting to others.
+Welcome to my GitHub profile! I'm a passionate AI enthusiast who loves to explore new technologies and build projects that solve real-world problems. Here you'll find a collection of my open-source contributions, personal projects, and anything else I work on that might be useful or interesting to others.
 
 ## 🚀 About Me
 
