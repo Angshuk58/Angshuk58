@@ -1,28 +1,53 @@
 # Hi there, I'm Angshuk Maity 👋
 
-Welcome to my GitHub profile! I'm a passionate AI enthusiast who loves to explore new technologies and build projects that solve real-world problems. Here you'll find a collection of my open-source contributions, personal projects, and anything else I work on that might be useful or interesting to others.
+## About Me
+I am an enthusiastic learner diving deep into the world of **Deep Learning**, having already built a strong foundation in **Machine Learning** and **Data Analysis**. Alongside, I have honed my skills in data visualization tools such as **Power BI** and **Tableau**, enabling me to transform data into impactful stories.
 
-## 🚀 About Me
+---
 
-- 👨‍💻 I’m currently working at Wipro
-- 🌱 I’m learning Data Science and Machine Learning
-- 🔭 I’m looking to collaborate on Data Science Projects
-- 🌍 I'm based in Kolkata
-- 📫 How to reach me: Gmail: angshukmaity58@gmail.com | LinkedIN: www.linkedin.com/in/angshuk-maity-309416161
+## Current Focus
+- 🌟 **Deep Learning**: Exploring neural networks, CNNs, RNNs, and cutting-edge models to solve challenging problems.
+- 📚 Continuous learning: Building projects, solving real-world problems, and staying updated with the latest advancements in AI and data science.
 
+---
 
-## 🔧 Technologies & Tools
+## My Skills
+### Programming & Development
+- Python (NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
+- SQL for database querying and management
 
-Here are some technologies I’ve worked with and enjoy using:
+### Data Analysis
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Cleaning & Preprocessing
 
-- **Languages**: Python, SQL, 
-- **Frameworks & Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Plotly, ScikitLearn
-- **Tools**: Jupyter Notebook, Visual Studio
-- **Databases**: MySQL, SQL Server
-- **Cloud Services**: Azure
+### Visualization Tools
+- Power BI
+- Tableau
 
-## 🌱 Current Learning Focus
+### Machine Learning
+- Regression, Classification, and Clustering Models
+- Feature Engineering
+- Model Optimization & Evaluation
 
-- MLOPS  
-- Natural Language processing 
-- AWS Sagemaker 
+### Deep Learning (In Progress)
+- Artificial Neural Networks (ANNs)
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs)
+- Generative Models
+
+---
+
+## Projects
+Here are some highlights of my work:
+1. **Machine Learning Models**: Built predictive and classification models using real-world datasets.
+2. **Data Dashboards**: Designed interactive dashboards in Power BI and Tableau for insightful visualizations.
+3. **Deep Learning Experiments**: Currently experimenting with neural networks for image recognition and natural language processing tasks.
+
+---
+
+## Connect With Me
+- 🌐 [LinkedIn](www.linkedin.com/in/angshuk-maity-309416161)
+
+I am always open to collaborating on exciting projects or discussing ideas. Let’s connect and grow together! 🚀
+
